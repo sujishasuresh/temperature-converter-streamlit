@@ -27,6 +27,4 @@ The application allows users to select the temperature unit, enter a temperature
 
 **Celsius = (Fahrenheit − 32) / 1.8**
 
-## 📸 Screenshot
 
-![Temperature Converter](screenshots/output.png)
